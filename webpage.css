@@ -1,0 +1,65 @@
+
+body {
+  background-color: rgb(251, 250, 203);
+  background-size: cover;
+  text-align: center;
+
+}
+h1 {
+  font-size: 100px;
+  background-color:  rgb(237, 235, 175);
+  background-size: contain;;
+  b
+
+}
+h2, h3, h4, h5 {
+  font-size: 75px;
+  background-color: rgb(254, 251, 148);
+  background-size: contain;
+  color: rgb(3, 150, 100)
+  color: rgba(3, 101, 100, 0.75);
+}
+
+table, th, td {
+    padding: 23px;
+    border: 4px solid black;
+    border-collapse: collapse;
+}
+
+#tableId {
+  margin-left: 272px;
+}
+p1  {
+  display: block;
+    margin-top: -203px;
+    margin-left: 639px;
+}
+p2 {
+  display: block;
+      margin-top: -207px;
+      margin-left: -664px;
+    }
+p3{
+  display: block;
+      margin-top: -204px;
+      margin-left: 788px;
+}
+p4{
+  display: block;
+margin-top: -204px;
+margin-right: 41em;
+margin-left: -13em;
+}
+.nellz {
+  margin-left: -233px;
+}
+.luntu{
+      margin-left: 400px;
+}
+.mhlo{
+  margin-left: -414px;
+}
+.mge{
+  margin-right: 0;
+padding-left: 24em;
+}
